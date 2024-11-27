@@ -16,7 +16,7 @@ const songs = [
   {
     name: "Castle Of Glass",
     artist: "Linkin Park",
-    source: "castle-of-glass",
+    source: "Castle-of-glass",
     image: "image-1",
   },
   {
