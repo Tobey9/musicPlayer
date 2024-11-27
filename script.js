@@ -93,7 +93,7 @@ function prevSong() {
     songIndex = songs.length - 1;
   }
   loadSong(songs[songIndex]);
-  pauseAudio();
+  playAudio();
 }
 
 function nextSong() {
