@@ -85,7 +85,7 @@ function loadSong(song) {
   image.src = `img/${song.image}.jpg`;
 }
 
-const onload = loadSong(songs[songIndex]);
+loadSong(songs[songIndex]);
 
 function prevSong() {
   songIndex--;
